@@ -8,14 +8,15 @@
 header{
     width: 100%;
     height: 5dvh;
-    background-color: #d7d7d7;
+    background-color: hsl(0, 0%, 20%);
+    color: #ffff;
     display: flex;
     justify-content: space-around;
     align-items: center;
     font-size: 12px;
 }
 .nav{
-    background: #02aae2;
+    background: #ffffff;
     width: 100%;
     height: 10dvh;
     display: flex;
@@ -34,8 +35,26 @@ nav ul {
 }
 li{
     margin-right: 10px;
+    font-size: 14px;
 }
 a{
     text-decoration: none;
-    color: #ffff;
+    color: #474747;
+}
+.container{
+    width: 100%;
+    height: 80dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(assests/land.jpg);
+    background-size: cover;
+}
+.title{
+    color: #ffffff;
+    font-size: 40px;
+}
+.title p{
+    font-size: 14px;
+    text-align: center;
 }
