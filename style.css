@@ -300,7 +300,7 @@ a{
     }
     .heading{
         margin-top: 1rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
     .cards{
         width: 100%;
@@ -314,7 +314,7 @@ a{
     }
     .card{
         width: 95%;
-        height: auto;
+        height: 8rem;
         background: rgb(52, 52, 108);
         mix-blend-mode: screen;
         padding: 10px;
