@@ -211,7 +211,6 @@ a{
         justify-content: space-around;
         align-items: center;
         font-size: 18px;
-        padding-right: 0.5rem;
         
     }
     .email{
@@ -248,11 +247,9 @@ a{
         display: flex;
         align-items: center;
         justify-content: center;
-        margin-right: 50px;
     
     }
     li{
-        margin-right: 20px;
         font-size: 25px;
     }
     a{
